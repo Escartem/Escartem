@@ -6,3 +6,5 @@
  ### 💻 Using `Python`, `Javascript`, `HTML` and `RenPy`
  ### 🤔 Learning `C++`, `C#` and `Java`
  ### :atom: Working on `3` projects
+
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
