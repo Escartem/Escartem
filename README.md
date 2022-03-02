@@ -10,6 +10,9 @@
  ### 🤔 Learning `C++`, `C#` and `Java`
  ### :atom: Working on `3` projects
  
+ [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J03KEUN)
+ 
  ---
  
  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Escartem/9b2acaf9-a006-4b50-ad68-bf9c8640ef95.png" /></a>
+ 
