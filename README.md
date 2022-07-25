@@ -16,6 +16,11 @@
  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J03KEUN)
  
  ---
+ I'm almost always on discord so if you want to ask me smth you should here
+ 
+ [![discord](https://discord.c99.nl/widget/theme-3/365044970027089920.png)](https://discord.gg/fzRdtVh)
+ 
+ ---
  Wow look at that pretty graph :o
  
  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Escartem/9b2acaf9-a006-4b50-ad68-bf9c8640ef95.png" /></a>
