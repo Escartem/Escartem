@@ -7,6 +7,30 @@
 
  ### 💻 I use `Python` and `HTML-CSS-JS`
  ### 📈 I like breaking everything, finding bugs and I'm constantly tampering with programs
+ 
+<details>
+    <summary>Games broken so far</summary>
+    
+     * Genshin Impact - out of map, broke ability cool-down, made paimon transcend out of existence, made wishes on non existing banner
+     * Minecraft - tampered with game code, save files, and much more
+     * Overwatch - out of map and explored around
+     * Warframe - transformed enemy in canon ball and transcended out of map
+     * Slime Rancher - access zones of map before possible
+     * Forza Horizon 2 - out of map
+     * Forza Motosport 7 - transcended out of map in main menu
+     * Tera - out of map
+     * Undertale - tampered with game code
+     * Goat Simulator - under map
+     * Calico - pass though wall
+     * Fortnite - out of map
+     * Gmod - self explanatory, their physics engine sucks and therefore games like Half Life, Portal and Stanley Parable were also broken
+     * Minecraft Dungeons - made illegal moves and crashed game way too many times
+     * Yandere Simulator - out of map, made items and npc vanish out of existence
+
+And a few others too 
+
+ </details> 
+ 
  ### 🤔 Currently learning how to make AI and Reverse Engineer apps, and sometimes trying to understand `C++` or `Java`
  ### :atom: Working on `way too much` projects at the same time
 
