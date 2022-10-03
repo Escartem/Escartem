@@ -2,11 +2,10 @@
 
 ---
 
-[![if you see this, it probably means something is not working](https://github-readme-stats.vercel.app/api?username=Escartem&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e)](https://github.com/anuraghazra/github-readme-stats)
-[![if you see this, it probably means something is not working](https://github-readme-stats.vercel.app/api/top-langs/?username=Escartem&langs_count=4&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=8b949e&exclude_repo=AmongUsCheatClient,Infinite-Poems)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://media.tenor.com/jKTaSAhUjpgAAAAC/yui-x-azusa-yui.gif" />
 
- ### 💻 I use `Python` and `HTML-CSS-JS`
- ### 📈 I like breaking everything, finding bugs and I'm constantly tampering with programs
+ ### 💻 I mainly code with Python and HTML/CSS/JS with the awesome code editor Sublime Text ✨
+ ### 📈 I like breaking everything, finding bugs and just constantly tampering with programs
  
 <details>
     <summary>Games broken so far</summary>
@@ -31,16 +30,21 @@ And a few others too
 
  </details> 
  
- ### 🤔 Currently learning how to make AI and Reverse Engineer apps, and sometimes trying to understand `C++` or `Java`
+ ### 🤔 Currently learning how to reverse engineer unity games and stuff like that
  ### :atom: Working on `way too much` projects at the same time
+ 
+ ---
+ 
+ ### I made a discord bot :D -> [right here](https://bit.ly/BlueDiscordBot) (this bot is like online since 4 years but yea)
 
+ ### Fun fact, I have a [youtube channel](https://www.youtube.com/channel/UCdJy-MFYbTV26qSyfhJ_mXw)
 
-
- pls help me im homeless
+ pls help me im homeless 😔
  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J03KEUN)
  
  ---
- I'm almost always on discord so if you want to ask me smth you can [here](https://discord.gg/fzRdtVh)
+ 
+ I'm almost always on discord so if you want to ask me smth you can [here](https://discord.gg/fzRdtVh) (and not anywhere else I know I have accounts everywhere but I wont be active)
  
  [![discord](https://discord.c99.nl/widget/theme-3/365044970027089920.png)](https://discord.gg/fzRdtVh)
  
