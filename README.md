@@ -30,7 +30,7 @@ And a few others too
 
  </details> 
  
- ### 🤔 Currently learning how to [reverse engineer unity games](https://github.com/Escartem/GenshinTextures) (or just extract sutff from them) and stuff like that
+ ### 🤔 Currently learning how to reverse engineer games (mainly unity games [like Genshin](https://github.com/Escartem/GenshinTextures) but also other games like [Omori](https://github.com/Escartem/OmoriSource)), and extract stuff from them.
  ### :atom: Working on `way too much` projects at the same time
  
  ---
