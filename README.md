@@ -13,6 +13,7 @@
      * Genshin Impact - out of map, broke ability cool-down, made paimon transcend out of existence, made wishes on non existing banner
      * Minecraft - tampered with game code, save files, and much more
      * Overwatch - out of map and explored around
+     * Overwatch 2 - also out of map a few days after the release
      * Warframe - transformed enemy in canon ball and transcended out of map
      * Slime Rancher - access zones of map before possible
      * Forza Horizon 2 - out of map
