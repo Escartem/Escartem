@@ -37,10 +37,11 @@ And a few others too
  ---
  
  ### I made a discord bot :D -> [right here](https://bit.ly/BlueDiscordBot) (this bot is like online since 4 years but yea)
+ (heroku announced the end of their free tier I need to find somewhere else to host the bot for free cuz I'm broke ;-; )
 
  ### Fun fact, I have a [youtube channel](https://www.youtube.com/channel/UCdJy-MFYbTV26qSyfhJ_mXw)
 
- pls help me im homeless 😔
+ pls help me im not only broke but also homeless 😔
  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J03KEUN)
  
  ---
