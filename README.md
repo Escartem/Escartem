@@ -1,10 +1,10 @@
-# I do stuff
+# If it doesn't work, fix it yourself and if it doesn't exist, code it.
 
 ---
 
 <img src="https://media.tenor.com/jKTaSAhUjpgAAAAC/yui-x-azusa-yui.gif" />
 
- ### 💻 I mainly code with Python and HTML/CSS/JS with the awesome code editor Sublime Text ✨
+ ### 💻 I mainly code with Python and HTML/CSS/JS with the awesome code editor Sublime Text ✨ (rest in peace notepad)
  ### 📈 I like breaking everything, finding bugs and just constantly tampering with programs
  
 <details>
@@ -27,22 +27,47 @@
      * Minecraft Dungeons - made illegal moves and crashed game way too many times
      * Yandere Simulator - out of map, made items and npc vanish out of existence
 
-And a few others too 
+And a few others too that I may have forgot
 
  </details> 
  
- ### 🤔 Currently learning how to reverse engineer games (mainly unity games [like Genshin](https://github.com/Escartem/GenshinTextures) but also other games like [Omori](https://github.com/Escartem/OmoriSource)), and extract stuff from them.
+ ### 🤔 Currently learning how to reverse engineer stuff (mainly unity games [like Genshin](https://github.com/Escartem/GenshinTextures) but also other games like [Omori](https://github.com/Escartem/OmoriSource)), and extract stuff from them.
  ### :atom: Working on `way too much` projects at the same time
  
  ---
  
- ### I made a discord bot :D -> [right here](https://bit.ly/BlueDiscordBot) (this bot is like online since 4 years but yea)
- (heroku announced the end of their free tier I need to find somewhere else to host the bot for free cuz I'm broke ;-; )
+ <details>
+     <summary>Some additional stuff I accomplished</summary>
+     
+     * bypassed free trials and licenses of many websites and softwares with multiples methods such as tampering with network
+     * accessed school server admin panel and leaked usernames and passwords of every users among with wifi password (but I'm fine they were more impressed than angry against me :D)
+     * unlocked way too many pc without the passwords security kinda sucks
+     * jailbroke school pc, removed spyware and bypassed bios passwords to reinstall os. And also leaked all components, drivers and included software for others students to mod it.
+     * reversed engineered covid qr codes to prove you don't have covid to make custom legal ones (only for my own learning did not shared anything with anyone pls no jail :c )
+     
+     * And outside of security
+     
+     * learned english, programming, drawing and all the rest myself, I hate following tutorials and have people to teach me
+     * made my own qrcodes
+     * created 3D engines with Scratch cuz i was bored and also recreated entire FNAF 1 within Scratch too
+     * i have the 2b2t map i don't even know why i still keep it
+     * rickrolled my entire city with qrcodes sticked everywhere >:D
+     * infinite money glitch with vending machines when your credits are stored on your card and not in the machine (not even encrypted in the card they really wanted to give you free hot chocolate)
+     * please youtube stop updating your app I need your bugs to skip all ads :(
+     * sometime I create games for me and my friends (rpg maker and godot if someone is interested)
+ </details>
+ 
+ ### I made a discord bot that will soon be offline because I'm broke -> [right here](https://bit.ly/BlueDiscordBot) (this bot was like online since 4 years but yea)
+ (heroku announced the end of their free tier pls donate the bot can make ice cream ;-; )
 
- ### Fun fact, I have a [youtube channel](https://www.youtube.com/channel/UCdJy-MFYbTV26qSyfhJ_mXw)
+ ### Fun fact, I have a [youtube channel](https://www.youtube.com/channel/UCdJy-MFYbTV26qSyfhJ_mXw) where I post stuff... sometime
+ 
+ ### I also do draw a little bit but I suck at character design
 
  pls help me im not only broke but also homeless 😔
  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J03KEUN)
+ 
+ Apparently I'm depressed and anxious but who cares my sleep isn't better than my mental health
  
  ---
  
@@ -56,3 +81,4 @@ And a few others too
  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Escartem/9b2acaf9-a006-4b50-ad68-bf9c8640ef95.png" /></a>
  
 sussy baka
+エンナ
