@@ -58,6 +58,7 @@ And a few others too that I may have forgot
      * infinite money glitch with vending machines when your credits are stored on your card and not in the machine (not even encrypted in the card they really wanted to give you free hot chocolate)
      * please youtube stop updating your app I need your bugs to skip all ads :(
      * sometime I create games for me and my friends (rpg maker and godot if someone is interested)
+     * why pay for software and games when you can get them for free on sketchy russians websites
  </details>
  
  ### I made a discord bot that will soon be offline because I'm broke -> [right here](https://bit.ly/BlueDiscordBot) (this bot was like online since 4 years but yea)
