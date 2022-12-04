@@ -33,6 +33,8 @@ And a few others too that I may have forgot
 
  </details> 
  
+ ### 🗿 Me breaking [Overwatch](https://www.youtube.com/watch?v=fOvITjNzI28) and [Genshin](https://www.youtube.com/watch?v=ZrFx7MTdbVA&t=66s)
+ 
  ### 🤔 Currently learning how to reverse engineer stuff (mainly unity games [like Genshin](https://github.com/Escartem/GenshinTextures) but also other games like [Omori](https://github.com/Escartem/OmoriSource)), and extract stuff from them.
  
  ### :atom: Working on ${ \left({{\lim_{x \to 7} {{x^2 - 36} \over {x + 6}}} - {\lim_{x \to 0}{ {e^{9x} - 1} \over {x} }}}\right) \left({\left({{\lim_{x \to 0}{ {e^{2x} - 1} \over {x} }} - (\cos^2x + \sin^2x)}\right) + {\lim_{x \to 0}{ {-\ln(1 + 9(e^{-x} - 1))} \over {x} }}}\right) + {{\lim_{x \to \infty}{{ 45x^{2} + 10x  } \over {{ 5x^{2} + 9x  }}}}}{\left({{\lim_{x \to \infty}{x^{1/x}}} - {\lim_{x \to -7} {{x^2 - 64} \over {x - 8}}} + {\lim_{x \to 0}{ {e^{9x} - 1} \over {x} }}} \right)} }-1$ projects at the same time 😎
@@ -47,8 +49,6 @@ And a few others too that I may have forgot
      * unlocked way too many pc without the passwords security kinda sucks
      * jailbroke school pc, removed spyware and bypassed bios passwords to reinstall os. And also leaked all components, drivers and included software for others students to mod it.
      * reversed engineered covid qr codes to prove you don't have covid to make custom legal ones (only for my own learning did not shared anything with anyone pls no jail :c )
-     
-     * And outside of security
      
      * learned english, programming, drawing and all the rest myself, I hate following tutorials and have people to teach me
      * made my own qrcodes
