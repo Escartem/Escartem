@@ -4,7 +4,7 @@
 
 Click on the image to change it !
 
-[<img src="https://i8amy118l9.execute-api.eu-west-3.amazonaws.com/v3/ghimage3" />](https://bit.ly/3DVM3vY)
+[<img src="https://api.escartem.eu.org/p/ghm3" />](https://bit.ly/3DVM3vY)
 
  ### 💻 I mainly code with Python and HTML/CSS/JS with the awesome code editor Sublime Text ✨ (rest in peace notepad)
  ### 📈 I like breaking everything, finding bugs and just constantly tampering with programs
