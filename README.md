@@ -87,4 +87,3 @@ And a few others too that I may have forgot
  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Escartem/9b2acaf9-a006-4b50-ad68-bf9c8640ef95.png" /></a>
  
 sussy baka
-エンナ
