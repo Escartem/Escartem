@@ -75,8 +75,6 @@ And a few others too that I may have forgot
  pls help me im not only broke but also homeless 😔
  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J03KEUN)
  
- Apparently I'm depressed and anxious but who cares my sleep isn't better than my mental health
- 
  ---
  
  I'm almost always on discord so if you want to ask me smth you can [here](https://discord.gg/fzRdtVh) (and not anywhere else I know I have accounts everywhere but I wont be active)
