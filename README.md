@@ -72,7 +72,7 @@ And a few others too that I may have forgot
  ### I also do draw a little bit but I suck at character design
 
  pls help me im not only broke but also homeless 😔
- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J03KEUN)
+<a href='https://ko-fi.com/J3J03KEUN' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
  
  ---
  
