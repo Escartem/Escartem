@@ -82,8 +82,8 @@ And a few others too that I may have forgot
  [![discord](https://discord.c99.nl/widget/theme-3/365044970027089920.png)](https://discord.gg/fzRdtVh)
  
  ---
- Wow look at that pretty graph :o (and btw this graph is not coding activity just activity in general when I'm doing stuff online)
+ wow look how much time I spend on the internet :o 
  
- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Escartem/9b2acaf9-a006-4b50-ad68-bf9c8640ef95.png" /></a>
+<img src="https://wakatime.com/share/@Escartem/3f65e43e-782e-4e3d-ae81-1d729ee4ebbb.png" />
  
 sussy baka
