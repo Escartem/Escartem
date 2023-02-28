@@ -55,12 +55,11 @@ And a few others too that I may have forgot
      * reversed engineered covid qr codes to prove you don't have covid to make custom legal ones (only for my own learning did not shared anything with anyone pls no jail :c )
      
      * learned english, programming, drawing and all the rest myself, I hate following tutorials and have people to teach me
-     * made my own qrcodes
+     * made my own qrcodes that are not working anymore
      * created 3D engines with Scratch cuz i was bored and also recreated entire FNAF 1 within Scratch too
-     * i have the 2b2t map i don't even know why i still keep it
      * rickrolled my entire city with qrcodes sticked everywhere >:D
      * infinite money glitch with vending machines when your credits are stored on your card and not in the machine (not even encrypted in the card they really wanted to give you free hot chocolate)
-     * please youtube stop updating your app I need your bugs to skip all ads :(
+     * please youtube stop updating your app I need your bugs to skip all ads :c (until i find a way to get free yt premium)
      * sometime I create games for me and my friends (rpg maker and godot if someone is interested)
      * why pay for software and games when you can get them for free on sketchy russians websites
  </details>
@@ -84,6 +83,6 @@ And a few others too that I may have forgot
  ---
  wow look how much time I spend on the internet :o 
  
-<img src="https://wakatime.com/share/@Escartem/3f65e43e-782e-4e3d-ae81-1d729ee4ebbb.png" />
+<a href="https://s3.tebi.io/bluedb/img/cat/005AA.jpg"><img src="https://wakatime.com/share/@Escartem/3f65e43e-782e-4e3d-ae81-1d729ee4ebbb.png" /></a>
  
 sussy baka
