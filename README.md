@@ -33,7 +33,7 @@ And a few others too that I may have forgot
 
  </details> 
  
- ### 🗿 Me breaking [Overwatch](https://www.youtube.com/watch?v=fOvITjNzI28) and [Genshin](https://www.youtube.com/watch?v=ZrFx7MTdbVA&t=66s)
+ ### 🗿 breaking [Overwatch](https://www.youtube.com/watch?v=fOvITjNzI28) and [Genshin](https://www.youtube.com/watch?v=ZrFx7MTdbVA&t=66s)
  
  ### 🤔 Currently learning how to reverse engineer stuff (mainly unity games [like Genshin](https://github.com/Escartem/GenshinTextures) but also other games like [Omori](https://github.com/Escartem/OmoriSource)), and extract stuff from them.
  
@@ -46,7 +46,7 @@ And a few others too that I may have forgot
  ---
  
  <details>
-     <summary>Some additional stuff I accomplished</summary>
+     <summary>Some additional stuff I accomplished (outdated btw)</summary>
      
      * bypassed free trials and licenses of many websites and softwares with multiples methods such as tampering with network
      * accessed school server admin panel and leaked usernames and passwords of every users among with wifi password (but I'm fine they were more impressed than angry against me :D)
@@ -76,9 +76,9 @@ And a few others too that I may have forgot
  
  ---
  
- I'm almost always on discord so if you want to ask me smth you can [here](https://discord.gg/fzRdtVh) (and not anywhere else I know I have accounts everywhere but I wont be active)
+ I'm almost always on discord so if you want to ask me smth you can [here](https://discord.gg/fzRdtVh)
  
- [![discord](https://discord.c99.nl/widget/theme-3/365044970027089920.png)](https://discord.gg/fzRdtVh)
+ [![discord](https://discord.c99.nl/widget/theme-2/365044970027089920.png)](https://discord.gg/fzRdtVh)
  
  ---
  wow look how much time I spend on the internet :o 
