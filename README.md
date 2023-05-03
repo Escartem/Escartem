@@ -1,4 +1,8 @@
-# If it doesn't work, fix it yourself and if it doesn't exist, code it.
+# If it doesn't work, fix it yourself and if it doesn't exist, code it
+
+---
+
+spoiler alert, this readme is a complete mess 🥰
 
 ---
 
@@ -7,12 +11,13 @@ Click on the image to change it !
 [<img src="https://api.escartem.eu.org/p/ghm3" />](https://bit.ly/3DVM3vY)
 
  ### 💻 I mainly code with Python and HTML/CSS/JS with the awesome code editor Sublime Text ✨ (rest in peace notepad)
- ### 📈 I like breaking everything, finding bugs and just constantly tampering with programs
+ ### 📈 I like breaking everything, finding bugs and just constantly tampering with programs and games
  
 <details>
     <summary>Games broken so far</summary>
     
-     * Genshin Impact - out of map, broke ability cool-down, made paimon transcend out of existence, made wishes on non existing banner
+     * Genshin Impact - out of map 6 times, broke ability cool-down, made paimon transcend out of existence, made wishes on non existing banner
+     * Honkai: Star Rail - display error and objects going through walls
      * Minecraft - tampered with game code, save files, and much more
      * Overwatch - out of map and explored around
      * Overwatch 2 - also out of map a few days after the release
@@ -35,7 +40,7 @@ And a few others too that I may have forgot
  
  ### 🗿 breaking [Overwatch](https://www.youtube.com/watch?v=fOvITjNzI28) and [Genshin](https://www.youtube.com/watch?v=ZrFx7MTdbVA&t=66s)
  
- ### 🤔 Currently learning how to reverse engineer stuff (mainly unity games [like Genshin](https://github.com/Escartem/GenshinTextures) but also other games like [Omori](https://github.com/Escartem/OmoriSource)), and extract stuff from them.
+ ### 🤔 i'm trying to learn how to reverse engineer stuff (mainly unity games [like Genshin](https://github.com/Escartem/GenshinTextures) but also other games like [Omori](https://github.com/Escartem/OmoriSource)), and extract content from them. Also doing some network tampering
  
  ### :atom: Working on ${ \left({{\lim_{x \to 7} {{x^2 - 36} \over {x + 6}}} - {\lim_{x \to 0}{ {e^{9x} - 1} \over {x} }}}\right) \left({\left({{\lim_{x \to 0}{ {e^{2x} - 1} \over {x} }} - (\cos^2x + \sin^2x)}\right) + {\lim_{x \to 0}{ {-\ln(1 + 9(e^{-x} - 1))} \over {x} }}}\right) + {{\lim_{x \to \infty}{{ 45x^{2} + 10x  } \over {{ 5x^{2} + 9x  }}}}}{\left({{\lim_{x \to \infty}{x^{1/x}}} - {\lim_{x \to -7} {{x^2 - 64} \over {x - 8}}} + {\lim_{x \to 0}{ {e^{9x} - 1} \over {x} }}} \right)} }-1$ projects at the same time 😎
  
