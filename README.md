@@ -88,7 +88,7 @@ And a few others too that I may have forgot
  ---
  wow look how much time I spend on the internet :o 
  
-<a href="https://s3.tebi.io/bluedb/img/cat/005AA.jpg"><img src="https://wakatime.com/share/@Escartem/3f65e43e-782e-4e3d-ae81-1d729ee4ebbb.png" /></a>
+<a href="https://bluedb.escartem.eu.org/img/cat/005AA.jpg"><img src="https://wakatime.com/share/@Escartem/3f65e43e-782e-4e3d-ae81-1d729ee4ebbb.png" /></a>
 
 ---
 
