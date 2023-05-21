@@ -77,18 +77,18 @@ And a few others too that I may have forgot
  ### I also do draw a little bit but I suck at character design
 
  pls help me im not only broke but also homeless 😔
-<a href='https://ko-fi.com/J3J03KEUN' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+[<img src="https://api.escartem.eu.org/p/ghm3/kf" />](https://ko-fi.com/J3J03KEUN)
  
  ---
  
  I'm almost always on discord so if you want to ask me smth you can [here](https://discord.gg/fzRdtVh)
  
- [![discord](https://discord.c99.nl/widget/theme-2/365044970027089920.png)](https://discord.gg/fzRdtVh)
- 
+[<img src="https://api.escartem.eu.org/p/ghm3/dw" />](https://discord.gg/fzRdtVh)
+
  ---
  wow look how much time I spend on the internet :o 
  
-<a href="https://bluedb.escartem.eu.org/img/cat/005AA.jpg"><img src="https://wakatime.com/share/@Escartem/3f65e43e-782e-4e3d-ae81-1d729ee4ebbb.png" /></a>
+ [<img src="https://api.escartem.eu.org/p/ghm3/wt" />](https://bluedb.escartem.eu.org/img/cat/005AA.jpg)
 
 ---
 
