@@ -75,7 +75,7 @@ And a few others too that I may have forgot
  ### I also do draw a little bit but I suck at character design
 
  pls help me im not only broke but also homeless 😔
-[<img src="https://api.escartem.eu.org/p/ghm3/kf" />](https://ko-fi.com/J3J03KEUN)
+[<img src="https://api.escartem.eu.org/p/ghm3/kf" style="height: 36px;" />](https://ko-fi.com/J3J03KEUN)
  
  ---
  
@@ -93,6 +93,6 @@ And a few others too that I may have forgot
 ay
 <img src="https://moe-counter.glitch.me/get/@Escartem?theme=moebooru" />
 
-### :atom: btw working on ${ \left({{\lim_{x \to 7} {{x^2 - 36} \over {x + 6}}} - {\lim_{x \to 0}{ {e^{9x} - 1} \over {x} }}}\right) \left({\left({{\lim_{x \to 0}{ {e^{2x} - 1} \over {x} }} - (\cos^2x + \sin^2x)}\right) + {\lim_{x \to 0}{ {-\ln(1 + 9(e^{-x} - 1))} \over {x} }}}\right) + {{\lim_{x \to \infty}{{ 45x^{2} + 10x  } \over {{ 5x^{2} + 9x  }}}}}{\left({{\lim_{x \to \infty}{x^{1/x}}} - {\lim_{x \to -7} {{x^2 - 64} \over {x - 8}}} + {\lim_{x \to 0}{ {e^{9x} - 1} \over {x} }}} \right)} }-1$ projects at the same time 😎
+### :atom: btw working on ${ \left({{\lim_{x \to 7} {{x^2 - 36} \over {x + 6}}} - {\lim_{x \to 0}{ {e^{9x} - 1} \over {x} }}}\right) \left({\left({{\lim_{x \to 0}{ {e^{2x} - 1} \over {x} }} - (\cos^2x + \sin^2x)}\right) + {\lim_{x \to 0}{ {-\ln(1 + 9(e^{-x} - 1))} \over {x} }}}\right) + {{\lim_{x \to \infty}{{ 45x^{2} + 10x  } \over {{ 5x^{2} + 9x  }}}}}{\left({{\lim_{x \to \infty}{x^{1/x}}} - {\lim_{x \to -7} {{x^2 - 64} \over {x - 8}}} + {\lim_{x \to 0}{ {e^{9x} - 1} \over {x} }}} \right)} }-1$ projects at the same time 😎 (interestingly enough, this block of math breaks github markdown and every embed image beyond it won't load and return a violation in content security policy directive, i think this is bug, i'll report one day eventually, but that's why it's at the bottom )
  
 sussy baka
