@@ -8,7 +8,7 @@ spoiler alert, this readme is a complete mess 🥰
 
 ### Click on the image to change it !
 
-[<img src="https://api.escartem.eu.org/p/ghm3" />](https://bit.ly/3DVM3vY)
+[<img src="https://api.escartem.eu.org/p/ghm3" />](https://bit.ly/3q8DA5H)
 
  ### 💻 I mainly code with Python and HTML/CSS/JS with the awesome code editor Sublime Text ✨ (rest in peace notepad)
  ### 📈 I like breaking everything, finding bugs and just constantly tampering with programs and games
