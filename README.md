@@ -6,7 +6,7 @@ spoiler alert, this readme is a complete mess 🥰
 
 ---
 
-Click on the image to change it !
+### Click on the image to change it !
 
 [<img src="https://api.escartem.eu.org/p/ghm3" />](https://bit.ly/3DVM3vY)
 
