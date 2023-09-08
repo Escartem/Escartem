@@ -1,8 +1,11 @@
-# If it doesn't work, fix it yourself and if it doesn't exist, code it
+# i do funny stuff on the compute
 
 ---
 
-spoiler alert, this readme is a complete mess 🥰
+<details>
+ <summary>spoiler alert</summary>
+ this readme is a complete mess 🥰
+</details>
 
 ---
 
@@ -38,12 +41,15 @@ And a few others too that I may have forgot
 
  </details> 
  
- ### 🗿 breaking [Overwatch](https://www.youtube.com/watch?v=fOvITjNzI28) and [Genshin](https://www.youtube.com/watch?v=ZrFx7MTdbVA&t=66s)
+ ## 🗿 breaking [Overwatch](https://www.youtube.com/watch?v=fOvITjNzI28) and [Genshin](https://www.youtube.com/watch?v=ZrFx7MTdbVA&t=66s)
+
+ ## 🎴 network tampering is fun for free premium accounts on bad software
  
- ### 🤔 i'm trying to learn how to reverse engineer stuff (mainly unity games [like Genshin](https://github.com/Escartem/GenshinTextures) but also other games like [Omori](https://github.com/Escartem/OmoriSource)), and extract content from them. Also doing some network tampering
+ ## 🤔 i reverse engineer stuff (such as unity games [like Genshin](https://github.com/Escartem/GenshinTextures) but also not unity games like [Omori](https://github.com/Escartem/OmoriSource)).
  
  ---
 
+> Breaking news ╰(*°▽°*)╯
 [I've made a website to guess random genshin impact characters from a cropped image go check it out :D](https://genshin-crop.web.app/)
  
  ---
