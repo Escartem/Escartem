@@ -15,6 +15,12 @@
 
  ### 💻 I mainly code with Python and HTML/CSS/JS with the awesome code editor Sublime Text ✨ (rest in peace notepad)
  ### 📈 I like breaking everything, finding bugs and just constantly tampering with programs and games
+
+ # I like doing touching games in funny ways :
+ - [genshin audio, textures, cutscenes dump](https://github.com/umaichanuwu/GenshinLinks/blob/main/README.md)
+ - [star rail textures dump](https://github.com/umaichanuwu/StarRailTextures/blob/main/README.md)
+ - [omori source code](https://github.com/Escartem/OmoriSource)
+ - [reverse 1999 audio and textures dump](https://github.com/Escartem/Reverse1999Dump)
  
 <details>
     <summary>Games broken so far</summary>
