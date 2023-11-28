@@ -42,6 +42,7 @@
      * Gmod - self explanatory, their physics engine sucks and therefore games like Half Life, Portal and Stanley Parable were also broken
      * Minecraft Dungeons - made illegal moves and crashed game way too many times
      * Yandere Simulator - out of map, made items and npc vanish out of existence
+     * Superliminal - just transcended in alternates realms casually
 
 And a few others too that I may have forgot
 
