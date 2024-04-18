@@ -1,29 +1,42 @@
-# i do funny stuff on the compute
+# hewo, i do funny stuff on the compute ╰(*°▽°*)╯
 
----
-
-<details>
- <summary>spoiler alert</summary>
- this readme is a complete mess 🥰
-</details>
-
----
-
-### Click on the image to change it !
+### Click on the image to change it ! (if it loads)
 
 [<img src="https://api.escartem.eu.org/p/ghm3" />](https://bit.ly/3DVM3vY)
 
- ### 💻 I mainly code with Python and HTML/CSS/JS with the awesome code editor Sublime Text ✨ (rest in peace notepad)
- ### 📈 I like breaking everything, finding bugs and just constantly tampering with programs and games
+---
+# What me do 🤨
 
- # I like doing touching games in funny ways :
- - [genshin audio, textures, cutscenes dump](https://github.com/umaichanuwu/GenshinLinks/blob/main/README.md)
- - [star rail textures dump](https://github.com/umaichanuwu/StarRailTextures/blob/main/README.md)
- - [omori source code](https://github.com/Escartem/OmoriSource)
- - [reverse 1999 audio and textures dump](https://github.com/Escartem/Reverse1999Dump)
- 
+## 🤓 web dev 
+- [geogessr & cropped character genshin website i'm bad at describing my works (´。＿。｀)](https://genshin-crop.web.app)
+- [my website (bit outdated for new stuff)](https://escartem.eu.org)
+- [cool api :D](https://api.escartem.eu.org)
+- R34 entries 👁️👁️ (coming soon :3)
+- and many personal websites / projects (｡･∀･)ﾉﾞ
+
+## 🐍 python goes brrr
+
+- [✪ anime game audio extractor](https://github.com/Escartem/AnimeWwise)
+- anime game asset browser (coming soon =￣ω￣=)
+- [craft finder for that funny craft game idk (yes it's that hard to explain myself)](https://github.com/Escartem/InfiniteCraftSearch)
+- [see your discord friends graph and how much grass you need 🫵 (why it doesn't render the freaking emoji >:c )](https://github.com/Escartem/fwendator)
+- [free nitro lessgooo](https://github.com/Escartem/GXNitro)
+- [🔥 once upon a time a good discord bot, been dead for 2 years lmao (may come back one day)](https://blue-bot-web.web.app/)
+
+## 👀 games pain (aka ~~stealing~~ borrowing their assets for the internet pleasure)
+
+- [genshin audio, textures, cutscenes dump (●'◡'●)](https://github.com/umaichanuwu/GenshinLinks/blob/main/README.md)
+- [star rail textures dump (｡･∀･)ﾉﾞ](https://github.com/umaichanuwu/GenshinLinks/blob/main/README.md#star-rail) or [here](https://github.com/umaichanuwu/StarRailTextures/blob/main/README.md)
+- [omori source code (╯▽╰ )](https://github.com/Escartem/OmoriSource)
+- [reverse 1999 audio and textures dump（。＾▽＾）](https://github.com/Escartem/Reverse1999Dump) (so you have a mother)
+
+## 😔 games pain part.2 (aka breaking them cuz 2 billion worth company can't make gaem)
+
+- [Jenshin](https://www.youtube.com/watch?v=ZrFx7MTdbVA)
+- [Overwatch](https://www.youtube.com/watch?v=fOvITjNzI28)
+
 <details>
-    <summary>Games broken so far</summary>
+    <summary>Games broken list (not updated since like 2 years)</summary>
     
      * Genshin Impact - out of map 6 times, broke ability cool-down, made paimon transcend out of existence, made wishes on non existing banner
      * Honkai: Star Rail - display error and objects going through walls
@@ -43,26 +56,18 @@
      * Minecraft Dungeons - made illegal moves and crashed game way too many times
      * Yandere Simulator - out of map, made items and npc vanish out of existence
      * Superliminal - just transcended in alternates realms casually
-
-And a few others too that I may have forgot
-
  </details> 
- 
- ## 🗿 breaking [Overwatch](https://www.youtube.com/watch?v=fOvITjNzI28) and [Genshin](https://www.youtube.com/watch?v=ZrFx7MTdbVA&t=66s)
 
- ## 🎴 network tampering is fun for free premium accounts on bad software
- 
- ## 🤔 i reverse engineer stuff (such as unity games [like Genshin](https://github.com/Escartem/GenshinTextures) but also not unity games like [Omori](https://github.com/Escartem/OmoriSource)).
- 
- ---
+ ## 🌿 Me socialize
 
-> Breaking news ╰(*°▽°*)╯
-[I've made a website to guess random genshin impact characters from a cropped image go check it out :D](https://genshin-crop.web.app/)
+ - [youtub](https://www.youtube.com/channel/UCdJy-MFYbTV26qSyfhJ_mXw) (i try to make good qual edits once every 3 months or so)
+ - [despah](https://discord.gg/fzRdtVh)
+ - lmao too lazy to add more just google me idk
  
  ---
  
  <details>
-     <summary>Some additional stuff I accomplished (outdated btw)</summary>
+     <summary>Do you want some additional stuff I accomplished (still outdated btw (cringe bro))</summary>
      
      * bypassed free trials and licenses of many websites and softwares with multiples methods such as tampering with network
      * accessed school server admin panel and leaked usernames and passwords of every users among with wifi password (but I'm fine they were more impressed than angry against me :D)
@@ -79,33 +84,27 @@ And a few others too that I may have forgot
      * sometime I create games for me and my friends (rpg maker and godot if someone is interested)
      * why pay for software and games when you can get them for free on sketchy russians websites
  </details>
- 
- ### I made a discord bot that will soon be offline because I'm broke -> [right here](https://bit.ly/BlueDiscordBot) (this bot was like online since 4 years but yea)
- (heroku announced the end of their free tier pls donate the bot can make ice cream ;-; )
-
- ### Fun fact, I have a [youtube channel](https://www.youtube.com/channel/UCdJy-MFYbTV26qSyfhJ_mXw) where I post stuff... sometime
- 
- ### I also do draw a little bit but I suck at character design
-
- pls help me im not only broke but also homeless 😔
-[<img src="https://api.escartem.eu.org/p/ghm3/kf" style="height: 36px;" />](https://ko-fi.com/J3J03KEUN)
- 
- ---
- 
- I'm almost always on discord so if you want to ask me smth you can [here](https://discord.gg/fzRdtVh)
- 
-[<img src="https://api.escartem.eu.org/p/ghm3/dw" />](https://discord.gg/fzRdtVh)
-
- ---
- wow look how much time I spend on the internet :o 
- 
- [<img src="https://api.escartem.eu.org/p/ghm3/wt" />](https://bluedb.escartem.eu.org/img/cat/005AA.jpg)
 
 ---
+
+# Stalking time :D
+
+### 🗿 Discord
+[<img src="https://api.escartem.eu.org/p/ghm3/dw" />](https://discord.gg/fzRdtVh)
+
+### 🎴 Me code stuff
+[<img src="https://api.escartem.eu.org/p/ghm3/wt" />](https://bluedb.escartem.eu.org/img/cat/005AA.jpg)
+
+# Help me i'm broke time :D
+
+[<img src="https://api.escartem.eu.org/p/ghm3/kf" style="height: 36px;" />](https://ko-fi.com/J3J03KEUN)
+ 
+# Idk random footer time ?
 
 ay
 <img src="https://moe-counter.glitch.me/get/@Escartem?theme=moebooru" />
 
-### :atom: btw working on ${ \left({{\lim_{x \to 7} {{x^2 - 36} \over {x + 6}}} - {\lim_{x \to 0}{ {e^{9x} - 1} \over {x} }}}\right) \left({\left({{\lim_{x \to 0}{ {e^{2x} - 1} \over {x} }} - (\cos^2x + \sin^2x)}\right) + {\lim_{x \to 0}{ {-\ln(1 + 9(e^{-x} - 1))} \over {x} }}}\right) + {{\lim_{x \to \infty}{{ 45x^{2} + 10x  } \over {{ 5x^{2} + 9x  }}}}}{\left({{\lim_{x \to \infty}{x^{1/x}}} - {\lim_{x \to -7} {{x^2 - 64} \over {x - 8}}} + {\lim_{x \to 0}{ {e^{9x} - 1} \over {x} }}} \right)} }-1$ projects at the same time 😎 (interestingly enough, this block of math breaks github markdown and every embed image beyond it won't load and return a violation in content security policy directive, i think this is bug, i'll report one day eventually, but that's why it's at the bottom )
+${ \left({{\lim_{x \to 7} {{x^2 - 36} \over {x + 6}}} - {\lim_{x \to 0}{ {e^{9x} - 1} \over {x} }}}\right) \left({\left({{\lim_{x \to 0}{ {e^{2x} - 1} \over {x} }} - (\cos^2x + \sin^2x)}\right) + {\lim_{x \to 0}{ {-\ln(1 + 9(e^{-x} - 1))} \over {x} }}}\right) + {{\lim_{x \to \infty}{{ 45x^{2} + 10x  } \over {{ 5x^{2} + 9x  }}}}}{\left({{\lim_{x \to \infty}{x^{1/x}}} - {\lim_{x \to -7} {{x^2 - 64} \over {x - 8}}} + {\lim_{x \to 0}{ {e^{9x} - 1} \over {x} }}} \right)} }-1$
+funny fact, this block of math breaks github markdown and every embed image beyond it won't load and return a violation in content security policy directive, i think this is bug, i'll report one day eventually, but that's why it's at the bottom
  
-sussy baka
+sussy baka 👁️👄👁️
