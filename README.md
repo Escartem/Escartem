@@ -90,14 +90,14 @@
 # Stalking time :D
 
 ### 🗿 Discord
-[<img src="https://api.escartem.eu.org/p/ghm3/dw" />](https://discord.gg/fzRdtVh)
+[<img src="https://api.escartem.eu.org/p/ghm3/despah" />](https://discord.gg/fzRdtVh)
 
 ### 🎴 Me code stuff
-[<img src="https://api.escartem.eu.org/p/ghm3/wt" />](https://bluedb.escartem.eu.org/img/cat/005AA.jpg)
+[<img src="https://api.escartem.eu.org/p/ghm3/waka" />](https://bluedb.escartem.eu.org/img/cat/005AA.jpg)
 
 # Help me i'm broke time :D
 
-[<img src="https://api.escartem.eu.org/p/ghm3/kf" style="height: 36px;" />](https://ko-fi.com/J3J03KEUN)
+[<img src="https://api.escartem.eu.org/p/ghm3/kofi" style="height: 36px;" />](https://ko-fi.com/J3J03KEUN)
  
 # Idk random footer time ?
 
