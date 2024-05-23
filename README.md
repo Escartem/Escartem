@@ -29,6 +29,7 @@
 - [star rail textures dump (｡･∀･)ﾉﾞ](https://github.com/umaichanuwu/GenshinLinks/blob/main/README.md#star-rail) or [here](https://github.com/umaichanuwu/StarRailTextures/blob/main/README.md)
 - [omori source code (╯▽╰ )](https://github.com/Escartem/OmoriSource)
 - [reverse 1999 audio and textures dump（。＾▽＾）](https://github.com/Escartem/Reverse1999Dump) (so you have a mother)
+- [wuthering waves textures](https://github.com/Escartem/WutheringWavesTextures) 🐢
 
 ## 😔 games pain part.2 (aka breaking them cuz 2 billion worth company can't make gaem)
 
