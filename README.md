@@ -8,6 +8,7 @@
 # What me do 🤨
 
 ## 🤓 web dev 
+- [asset browser for anime games dumped content](https://assets.escartem.eu.org)
 - [geogessr & cropped character genshin website i'm bad at describing my works (´。＿。｀)](https://genshin-crop.web.app)
 - [my website (bit outdated for new stuff)](https://escartem.eu.org)
 - [cool api :D](https://api.escartem.eu.org)
