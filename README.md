@@ -1,4 +1,4 @@
-# hewo, i do funny stuff on the compute ╰(*°▽°*)╯
+# hi, good morning, it is I, Escartem. I do funny stuff on the compute ╰(*°▽°*)╯
 
 ### Click on the image to change it ! (if it loads)
 
