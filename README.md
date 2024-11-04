@@ -2,16 +2,16 @@
 
 ### Click on the image to change it ! (if it loads)
 
-[<img src="https://api.escartem.eu.org/p/ghm3" />](https://bit.ly/3DVM3vY)
+[<img src="https://api.escartem.moe/p/ghm3" />](https://bit.ly/3DVM3vY)
 
 ---
 # What me do 🤨
 
 ## 🤓 web dev 
-- [asset browser for anime games dumped content](https://assets.escartem.eu.org)
+- [asset browser for anime games dumped content](https://assets.escartem.moe)
 - [geogessr & cropped character genshin website i'm bad at describing my works (´。＿。｀)](https://genshin-crop.web.app)
-- [my website (bit outdated for new stuff)](https://escartem.eu.org)
-- [cool api :D](https://api.escartem.eu.org)
+- [my website (bit outdated for new stuff)](https://escartem.moe)
+- [cool api :D](https://api.escartem.moe)
 - R34 entries 👁️👁️ (coming soon :3)
 - and many personal websites / projects (｡･∀･)ﾉﾞ
 
@@ -26,8 +26,8 @@
 
 ## 👀 games pain (aka ~~stealing~~ borrowing their assets for the internet pleasure)
 
-- [genshin audio, textures, cutscenes dump (●'◡'●)](https://github.com/umaichanuwu/GenshinLinks/blob/main/README.md)
-- [star rail textures dump (｡･∀･)ﾉﾞ](https://github.com/umaichanuwu/GenshinLinks/blob/main/README.md#star-rail) or [here](https://github.com/umaichanuwu/StarRailTextures/blob/main/README.md)
+- [genshin audio, textures, cutscenes dump (●'◡'●)](https://github.com/umaichanuwu/AnimeLinks/blob/main/README.md)
+- [star rail textures dump (｡･∀･)ﾉﾞ](https://github.com/umaichanuwu/AnimeLinks/blob/main/README.md#star-rail) or [here](https://github.com/umaichanuwu/StarRailTextures/blob/main/README.md)
 - [omori source code (╯▽╰ )](https://github.com/Escartem/OmoriSource)
 - [reverse 1999 audio and textures dump（。＾▽＾）](https://github.com/Escartem/Reverse1999Dump) (so you have a mother)
 - [wuthering waves textures](https://github.com/Escartem/WutheringWavesTextures) 🐢
@@ -92,14 +92,14 @@
 # Stalking time :D
 
 ### 🗿 Discord
-[<img src="https://api.escartem.eu.org/p/ghm3/despah" />](https://discord.gg/fzRdtVh)
+[<img src="https://api.escartem.moe/p/ghm3/despah" />](https://discord.gg/fzRdtVh)
 
 ### 🎴 Me code stuff
-[<img src="https://api.escartem.eu.org/p/ghm3/waka" />](https://bluedb.escartem.eu.org/img/cat/005AA.jpg)
+[<img src="https://api.escartem.moe/p/ghm3/waka" />](https://bluedb.escartem.moe/img/cat/005AA.jpg)
 
 # Help me i'm broke time :D
 
-[<img src="https://api.escartem.eu.org/p/ghm3/kofi" style="height: 36px;" />](https://ko-fi.com/J3J03KEUN)
+[<img src="https://api.escartem.moe/p/ghm3/kofi" style="height: 36px;" />](https://ko-fi.com/J3J03KEUN)
  
 # Idk random footer time ?
 
