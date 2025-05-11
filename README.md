@@ -15,6 +15,8 @@ silly goofball, menace to computers, always learn new stuff
 - [audio files extraction tool w/ filename recovery (hoyo games only)](https://github.com/Escartem/AnimeWwise) 🎵
 - [python lib to get any game file at any version (hoyo games only)](https://pypi.org/project/HoyoDL) （。＾▽＾）
 - [tool to get any asset at any version (genshin only)](https://github.com/Escartem/GIAssetLib) 🍉
+- [Girls x Battle 2 full decompilation （⊙ｏ⊙）](https://github.com/Escartem/GxB2Decomp)
+- [download sophon assets from hoyo games](https://github.com/Escartem/SophonDownloader)
 - [get update packages links (hoyo games only)](https://hoyo-updates.vercel.app) 👀
 - [omori source code](https://github.com/Escartem/OmoriSource) (╯▽╰ )
 - [some wip stuff](https://git.escartem.moe/explore/repos) (¬‿¬)
@@ -24,7 +26,7 @@ silly goofball, menace to computers, always learn new stuff
 - [genshin audio, textures, cutscenes dump](https://github.com/umaichanuwu/AnimeLinks/blob/main/README.md) (｡･∀･)ﾉﾞ
 - [star rail textures dump](https://github.com/umaichanuwu/AnimeLinks/blob/main/README.md#star-rail) or [here](https://github.com/umaichanuwu/StarRailTextures/blob/main/README.md) (●'◡'●)
 
-## Misc (~˘▾˘)~
+## Misc (\~˘▾˘)~
 - [geogessr style & cropped character guesser website for genshin and star rail](https://genshin-crop.web.app)
 - [cool api :D](https://api.escartem.moe)
 - [🔥 once upon a time a good discord bot, been dead for 2 years lmao (may come back one day)](https://blue-bot-web.web.app/)
