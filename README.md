@@ -10,7 +10,7 @@ silly goofball, menace to computers, always learn new stuff
 # My stuff (◕‿◕✿)
 
 ## Anime games reverse engineering
-- [biggest texture database of anime games, 1M+ & 400GB+ worth of assets](https://assets.escartem.moe) (｡◕‿‿◕｡)
+- [biggest texture database of anime games, 2M+ & 800GB+ worth of assets](https://assets.escartem.moe) (｡◕‿‿◕｡)
 - [updated asset studio to extract assets](https://github.com/Escartem/AnimeStudio) 💻
 - [audio files extraction tool w/ filename recovery (hoyo games only)](https://github.com/Escartem/AnimeWwise) 🎵
 - [python lib to get any game file at any version (hoyo games only)](https://pypi.org/project/HoyoDL) （。＾▽＾）
