@@ -15,6 +15,7 @@ silly goofball, menace to computers, always learn new stuff
 - [audio files extraction tool w/ filename recovery (hoyo games only)](https://github.com/Escartem/AnimeWwise) 🎵
 - [python lib to get any game file at any version (hoyo games only)](https://pypi.org/project/HoyoDL) （。＾▽＾）
 - [tool to get any asset at any version (genshin only)](https://github.com/Escartem/GIAssetLib) 🍉
+- [Duet Night Abyss dump](https://github.com/Escartem/DuetNightAbyssDump) (✿◡‿◡)
 - [Girls x Battle 2 full decompilation](https://github.com/Escartem/GxB2Decomp)（⊙ｏ⊙）
 - [download sophon assets from hoyo games](https://github.com/Escartem/SophonDownloader)
 - [get update packages links (hoyo games only)](https://hoyo-updates.vercel.app) 👀
