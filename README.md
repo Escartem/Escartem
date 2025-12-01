@@ -1,7 +1,5 @@
 # greetings, it is I, Escartem. I do funny stuff on the compute ╰(*°▽°*)╯
 
-silly goofball, menace to computers, always learn new stuff
-
 ### Click on the image to change it ! (if it loads)
 
 [<img src="https://api.escartem.moe/p/ghm3" />](https://bit.ly/3DVM3vY)
