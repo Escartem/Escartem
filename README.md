@@ -54,7 +54,7 @@
 ~ "why pay for software and games when you can get them for free on sketchy russians websites"
 
 ay lmao
-<img src="https://moe-counter.glitch.me/get/@Escartem?theme=moebooru" />
+<img src="https://count.getloli.com/@Escartem?name=Escartem&theme=rule34&padding=6&offset=0&align=top&scale=1.5&pixelated=1&darkmode=auto&prefix=0" />
 
 ${ \left({{\lim_{x \to 7} {{x^2 - 36} \over {x + 6}}} - {\lim_{x \to 0}{ {e^{9x} - 1} \over {x} }}}\right) \left({\left({{\lim_{x \to 0}{ {e^{2x} - 1} \over {x} }} - (\cos^2x + \sin^2x)}\right) + {\lim_{x \to 0}{ {-\ln(1 + 9(e^{-x} - 1))} \over {x} }}}\right) + {{\lim_{x \to \infty}{{ 45x^{2} + 10x  } \over {{ 5x^{2} + 9x  }}}}}{\left({{\lim_{x \to \infty}{x^{1/x}}} - {\lim_{x \to -7} {{x^2 - 64} \over {x - 8}}} + {\lim_{x \to 0}{ {e^{9x} - 1} \over {x} }}} \right)} }-1$
 funny fact, this block of math used to break github markdown, but thanks to [@osogi](https://github.com/osogi) that pointed out this was fixed, it no longers breaks github markdown 😎
