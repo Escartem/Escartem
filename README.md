@@ -29,7 +29,6 @@
 - [geogessr style & cropped character guesser website for genshin and star rail](https://genshin-crop.web.app)
 - [cool api :D](https://api.escartem.moe)
 - [🔥 once upon a time a good discord bot, been dead for 2 years lmao (may come back one day)](https://blue-bot-web.web.app/)
-- R34 entries 👁️👁️ (coming soon :3)
 - [craft finder for that funny craft game idk (yes it's that hard to explain myself)](https://github.com/Escartem/InfiniteCraftSearch)
 - [see your discord friends graph and how much grass you need 🫵](https://github.com/Escartem/fwendator)
 - [free nitro lessgooo](https://github.com/Escartem/GXNitro)
@@ -38,7 +37,7 @@
 
  - [youtub](https://www.youtube.com/channel/UCdJy-MFYbTV26qSyfhJ_mXw)
  - [despah](https://discord.gg/fzRdtVh)
- - lmao too lazy to add more just google me idk
+ - too lazy to add more just google me lol
 
 ### 🗿 Discord
 [<img src="https://api.escartem.moe/p/ghm3/despah" />](https://discord.gg/fzRdtVh)
