@@ -2,7 +2,7 @@
 
 ### Click on the image to change it ! (if it loads)
 
-[<img src="https://api.escartem.moe/p/ghm3" />](https://bit.ly/3DVM3vY)
+[<img src="https://api.escartem.moe/p/ghm3" />](http://r.escartem.moe/github)
 
 ---
 # My stuff (◕‿◕✿)
