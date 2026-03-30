@@ -24,6 +24,7 @@
 - [wuthering waves textures](https://github.com/Escartem/WutheringWavesTextures) 🐢
 - [genshin audio, textures, cutscenes dump](https://github.com/umaichanuwu/AnimeLinks/blob/main/README.md) (｡･∀･)ﾉﾞ
 - [star rail textures dump](https://github.com/umaichanuwu/AnimeLinks/blob/main/README.md#star-rail) or [here](https://github.com/umaichanuwu/StarRailTextures/blob/main/README.md) (●'◡'●)
+- [rewinding cadence stuff](https://git.escartem.moe/RewindingCadence)
 
 ## Misc (\~˘▾˘)~
 - [geogessr style & cropped character guesser website for genshin and star rail](https://genshin-crop.web.app)
