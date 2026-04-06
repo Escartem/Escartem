@@ -40,14 +40,14 @@
  - [despah](https://discord.gg/fzRdtVh)
  - too lazy to add more just google me lol
 
-### 🗿 Discord
+### 🗿 Discord (don't worry about the account)
 [<img src="https://api.escartem.moe/p/ghm3/despah" />](https://discord.gg/fzRdtVh)
 
 ### 🎴 Me code stuff
 [<img src="https://api.escartem.moe/p/ghm3/waka" />](https://bluedb.escartem.moe/img/cat/005AA.jpg)
 
 # Support me :O
-[<img src="https://api.escartem.moe/p/ghm3/kofi" style="height: 36px;" />](https://ko-fi.com/J3J03KEUN)
+[<img src="https://api.escartem.moe/p/ghm3/kofi" style="height: 36px;" />](https://ko-fi.com/escartem)
 
 ---
 
